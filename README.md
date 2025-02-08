@@ -1,8 +1,8 @@
-<h2 align="left">df</h2>
+<h2 align="left">im nub</h2>
 
 ###
 
-<img align="left" height="150" src="https://media.discordapp.net/attachments/888101149939470370/1337758664429146133/IMG_1636-removebg-preview.png?ex=67a89c57&is=67a74ad7&hm=48cee8c63110a9d6d02dd5132a2fcce106d84033d7d6d2b6f75307f091c17b20&=&format=webp&quality=lossless"  />
+<img align="left" height="250" src="https://media.discordapp.net/attachments/888101149939470370/1337758664429146133/IMG_1636-removebg-preview.png?ex=67a89c57&is=67a74ad7&hm=48cee8c63110a9d6d02dd5132a2fcce106d84033d7d6d2b6f75307f091c17b20&=&format=webp&quality=lossless"  />
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
