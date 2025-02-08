@@ -1,4 +1,4 @@
-<h2 align="left">im nub</h2>
+<h2 align="left">creates code for your inconvenience :)</h2>
 
 ###
 
